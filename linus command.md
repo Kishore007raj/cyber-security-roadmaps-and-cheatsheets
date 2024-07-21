@@ -1,3 +1,5 @@
 # linus command
-
-```bash linus   # show the linus version    ```
+<tr>
+<td class="code">linus</td>
+<td class="description">show the linus version</td>
+</tr>
